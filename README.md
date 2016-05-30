@@ -1,1 +1,1 @@
-# Rosbridge_suite_deps
+.rostinstall information needed for installing Rosbridge_suite
